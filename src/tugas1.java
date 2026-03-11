@@ -4,7 +4,7 @@
  */
 
 /**
- *
+ *fghjksdfghdfghdfgh
  * @author tediiiii23
  */
 public class tugas1 {
